@@ -1,0 +1,1 @@
+esto ejecuta los estilos con sass, la card es de rayomaqueen tiene una imagen moviendose para arriba y para abajo tiene dos botones a los lados para pasar, y un boton carrito de compras
